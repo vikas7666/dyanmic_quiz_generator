@@ -1,1 +1,1 @@
-# dyanmic_quiz_generator
+Dyanmic quiz generator 
